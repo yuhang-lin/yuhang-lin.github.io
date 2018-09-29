@@ -11,30 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Computer Science, Zhejiang Normal University, 2016
+* M.S. in Computer Science, University of Vermont, 2018
+* Ph.D in Computer Science, North Carolina State University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2016 to Spring 2018: Graduate Teaching Assistant
+  * University of Vermont
+  * Duties included: 
+  1. hold office hours to help students;
+  2. grade on homework and exams;
+  3. give classroom lectures in the event the instructor is away;
+  4. review assignments, exams, and answer keys provided by the instructor;
+  5. teach students stopping by or sending emails to seek help.
+  * Courses included:
+  CS 125 Computability and Complexity (2017 Spring, 2017 Fall, 2018 Spring)
+  CS 148 Database Design for the Web (2016 Fall, 2017 Spring, 2017 Fall)
+  CS 204 Database Systems (2016 Fall)
+  CS 395 Deep Learning (2018 Spring)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2016: Graduate Research Assistant
+  * University of Vermont
+  * Duties included: Built a beta version of website (http://crausality.org/) with PHP and MySQL Database, which is the   crowdsourcing part of a NSF research program. Users are given a set of highly customized questions about possible causality based on their answer history. Then users can proposal possible related causality pairs for further investigation.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Sub-skill Java
+  * Sub-skill Python
+  * Sub-skill C
+  * Sub-skill C++
+  * Sub-skill JavaScript
+  * Sub-skill PHP
+  * Sub-skill MATLAB
+  * Sub-skill Bash
+* Database
+  * Sub-skill MySQL Database
+  * Sub-skill Oracle Database
+  * Sub-skill MongoDB
+  * Sub-skill Oracle NoSQL Database
+* Machine Learning and Big Data
+  * Sub-skill TensoFlow
+  * Sub-skill Hadoop
+  * Sub-skill Django
+  * Sub-skill Bootstrap
+  * Sub-skill Weka
+  * Sub-skill Keras
+* Web Development
+  * Sub-skill HTML/HTML5
+  * Sub-skill CSS
+  * Sub-skill Django
+  * Sub-skill Bootstrap
+ 
+
 
 Publications
 ======
