@@ -38,44 +38,36 @@ Work experience
 Skills
 ======
 * Programming Language
-  * Sub-skill Java
-  * Sub-skill Python
-  * Sub-skill C
-  * Sub-skill C++
-  * Sub-skill JavaScript
-  * Sub-skill PHP
-  * Sub-skill MATLAB
-  * Sub-skill Bash
+  * Java
+  * Python
+  * C
+  * C++
+  * JavaScript
+  * PHP
+  * MATLAB
+  * Bash
 * Database
-  * Sub-skill MySQL Database
-  * Sub-skill Oracle Database
-  * Sub-skill MongoDB
-  * Sub-skill Oracle NoSQL Database
+  * MySQL Database
+  * Oracle Database
+  * MongoDB
+  * Oracle NoSQL Database
 * Machine Learning and Big Data
-  * Sub-skill TensoFlow
-  * Sub-skill Hadoop
-  * Sub-skill Django
-  * Sub-skill Bootstrap
-  * Sub-skill Weka
-  * Sub-skill Keras
+  * TensoFlow
+  * Hadoop
+  * Django
+  * Bootstrap
+  * Weka
+  * Keras
 * Web Development
-  * Sub-skill HTML/HTML5
-  * Sub-skill CSS
-  * Sub-skill Django
-  * Sub-skill Bootstrap
- 
-
+  * HTML/HTML5
+  * CSS
+  * Django
+  * Bootstrap
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
