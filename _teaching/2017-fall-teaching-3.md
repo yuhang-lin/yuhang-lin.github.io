@@ -4,17 +4,15 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-3
 venue: "University of Vermont, Department of Computer Science"
-date: 2017-08-01
+date: 2017-08-28
 location: "Burlington, Vermont, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+[CS 125 Computability and Complexity](https://www.uvm.edu/~ylin19/cs125/1702/ "2017 Fall CS 125")
 ======
 
-Heading 2
+[CS 148 Database Design for the Web](https://www.uvm.edu/~ylin19/cs148/)
 ======
 
-Heading 3
-======

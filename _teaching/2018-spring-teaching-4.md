@@ -10,11 +10,9 @@ location: "Burlington, Vermont, USA"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+[CS 125 Computability and Complexity](https://www.uvm.edu/~ylin19/cs125/)
 ======
 
-Heading 2
+CS 395 Deep Learning
 ======
 
-Heading 3
-======
