@@ -8,7 +8,6 @@ date: 2017-01-17
 location: "Burlington, Vermont, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 [CS 125 Computability and Complexity](https://www.uvm.edu/~ylin19/cs125/1701/ "2017 Spring CS 125")
 ======

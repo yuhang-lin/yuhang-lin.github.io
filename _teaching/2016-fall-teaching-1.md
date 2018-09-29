@@ -8,10 +8,10 @@ date: 2016-08-29
 location: "Burlington, Vermont, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+First semester of doing teaching assistant. 
 
-CS 148 Database Design for the Web
+CS 148 Database Design for the Web (Undergraduate course)
 ======
 
-CS 204 Database Systems
+CS 204 Database Systems (Graduate course)
 ======
