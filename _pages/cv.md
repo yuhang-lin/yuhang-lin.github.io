@@ -17,8 +17,7 @@ Education
 
 Work experience
 ======
-* Fall 2016 to Spring 2018: Graduate Teaching Assistant
-  * University of Vermont
+* Fall 2016 to Spring 2018: Graduate Teaching Assistant at University of Vermont
   * Duties included: 
   1. hold office hours to help students;
   2. grade on homework and exams;
@@ -31,9 +30,8 @@ Work experience
   CS 204 Database Systems (2016 Fall)
   CS 395 Deep Learning (2018 Spring)
 
-* August 2016: Graduate Research Assistant
-  * University of Vermont
-  * Duties included: Built a beta version of [website](http://crausality.org/) with PHP and MySQL Database, which is the crowdsourcing part of a NSF research program. Users are given a set of highly customized questions about possible causality based on their answer history. Then users can proposal possible related causality pairs for further investigation.
+* August 2016: Graduate Research Assistant at University of Vermont
+  * Duties included: Built a beta version of website [http://crausality.org/](http://crausality.org/) with PHP and MySQL Database, which is the crowdsourcing part of a NSF research program. Users are given a set of highly customized questions about possible causality based on their answer history. Then users can proposal possible related causality pairs for further investigation.
   
 Skills
 ======
@@ -79,4 +77,4 @@ Teaching
 Volunteer Experience
 ======
 * April 2017 to May 2018: Webmaster at University of Vermont Indian Students Association
-  I am one of the webmasters in this association, responsible for maintaining and updating the [website](http://www.uvm.edu/~isa/about-us.html).
+  * I am one of the webmasters in this association, responsible for maintaining and updating the website [http://www.uvm.edu/~isa/about-us.html](http://www.uvm.edu/~isa/about-us.html).
