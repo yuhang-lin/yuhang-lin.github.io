@@ -33,7 +33,7 @@ Work experience
 
 * August 2016: Graduate Research Assistant
   * University of Vermont
-  * Duties included: Built a beta version of website (http://crausality.org/) with PHP and MySQL Database, which is the   crowdsourcing part of a NSF research program. Users are given a set of highly customized questions about possible causality based on their answer history. Then users can proposal possible related causality pairs for further investigation.
+  * Duties included: Built a beta version of [website](http://crausality.org/) with PHP and MySQL Database, which is the crowdsourcing part of a NSF research program. Users are given a set of highly customized questions about possible causality based on their answer history. Then users can proposal possible related causality pairs for further investigation.
   
 Skills
 ======
@@ -76,6 +76,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteer Experience
 ======
-* Currently signed in to 43 different slack teams
+* April 2017 to May 2018: Webmaster at University of Vermont Indian Students Association
+  I am one of the webmasters in this association, responsible for maintaining and updating the [website](http://www.uvm.edu/~isa/about-us.html).
