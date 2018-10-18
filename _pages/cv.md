@@ -52,8 +52,6 @@ Skills
 * Machine Learning and Big Data
   * TensoFlow
   * Hadoop
-  * Django
-  * Bootstrap
   * Weka
   * Keras
 * Web Development
@@ -61,6 +59,8 @@ Skills
   * CSS
   * Django
   * Bootstrap
+  * JavaScript
+  * jQuery
 
 Publications
 ======
