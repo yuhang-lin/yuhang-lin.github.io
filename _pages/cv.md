@@ -17,6 +17,15 @@ Education
 
 Work experience
 ======
+* Fall 2018: Graduate Teaching Assistant at North Carolina State University
+  * Duties included: 
+  1. hold office hours to help students;
+  2. grade on homework and exams;
+  3. answer questions on Piazza;
+  4. review assignments, exams, and answer keys provided by the instructor;
+  * Courses included:
+  CSC 246 Concepts and Facilities of Operating Systems for Computer Scientists (2018 Fall)
+
 * Fall 2016 to Spring 2018: Graduate Teaching Assistant at University of Vermont
   * Duties included: 
   1. hold office hours to help students;
