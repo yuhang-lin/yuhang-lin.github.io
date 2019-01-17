@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am first year PhD student in Computer Science at North Carolina State University. I am looking for summer internship in 2019!
+I am a first year PhD student in Computer Science at North Carolina State University, looking for summer internship in 2019!
