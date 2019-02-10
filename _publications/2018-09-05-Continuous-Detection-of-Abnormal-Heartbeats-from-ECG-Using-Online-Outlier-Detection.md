@@ -6,10 +6,10 @@ excerpt: 'A prototype system has been built to test the feasibility and efficacy
 date: 2018-09-05
 venue: 'Proceedings of the 5th International Conference on Information Management and Big Data, Communications in Computer and Information Science, Springer'
 paperurl: 'http://yuhang-lin.github.io/files/simbig-2018-ecg.pdf'
-citation: 'Yuhang Lin, Byung Suk Lee, and Daniel Lustgarten, “Continuous Detection of Abnormal Heartbeats from ECG Using Online Outlier Detection”, Proceedings of the 5th International Conference on Information Management and Big Data, Lima, Peru, 2018'
+citation: 'Lin Y., Lee B.S., Lustgarten D. (2019) Continuous Detection of Abnormal Heartbeats from ECG Using Online Outlier Detection. In: Lossio-Ventura J., Muñante D., Alatrista-Salas H. (eds) Information Management and Big Data. SIMBig 2018. Communications in Computer and Information Science, vol 898. Springer, Cham'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about using online outlier detection algorithm to detect abnormal heartbeats from ECG data.
 
 [Download paper here](http://yuhang-lin.github.io/files/simbig-2018-ecg.pdf)
 
-Recommended citation: Yuhang Lin, Byung Suk Lee, and Daniel Lustgarten, “Continuous Detection of Abnormal Heartbeats from ECG Using Online Outlier Detection”, Proceedings of the 5th International Conference on Information Management and Big Data, Lima, Peru, 2018.
+Recommended citation: Lin Y., Lee B.S., Lustgarten D. (2019) Continuous Detection of Abnormal Heartbeats from ECG Using Online Outlier Detection. In: Lossio-Ventura J., Muñante D., Alatrista-Salas H. (eds) Information Management and Big Data. SIMBig 2018. Communications in Computer and Information Science, vol 898. Springer, Cham
