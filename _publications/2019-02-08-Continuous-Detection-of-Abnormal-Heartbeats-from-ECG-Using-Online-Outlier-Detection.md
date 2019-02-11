@@ -11,5 +11,3 @@ citation: 'Lin Y., Lee B.S., Lustgarten D. (2019) Continuous Detection of Abnorm
 This paper is about using online outlier detection algorithm to detect abnormal heartbeats from ECG data.
 
 [Download paper here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-11680-4.pdf)
-
-Recommended citation: Lin Y., Lee B.S., Lustgarten D. (2019) Continuous Detection of Abnormal Heartbeats from ECG Using Online Outlier Detection. In: Lossio-Ventura J., Muñante D., Alatrista-Salas H. (eds) Information Management and Big Data. SIMBig 2018. Communications in Computer and Information Science, vol 898. Springer, Cham
