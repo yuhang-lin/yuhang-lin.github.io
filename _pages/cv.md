@@ -13,11 +13,14 @@ Education
 ======
 * B.S. in Mathematics and Computer Science, Zhejiang Normal University, 2016
 * M.S. in Computer Science, University of Vermont, 2018
-* Ph.D in Computer Science, North Carolina State University, 2022 (expected)
+* Ph.D in Computer Science, North Carolina State University, 2021 (expected)
 
 Work experience
 ======
 * Spring 2019 to present: Graduate Research Assistant at North Carolina State University
+
+* May 2019 to July 2019: Lecturer at North Carolina State University
+ Taught on campus section of 19 undergraduate students on Operating Systems (CSC 246), including multithreaded programming in Java and C, CPU scheduling and memory management , resulting in a 95% pass rate.
 
 * Fall 2018 to present: Graduate Teaching Assistant at North Carolina State University
   * Duties included: 
