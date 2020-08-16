@@ -13,14 +13,21 @@ Education
 ======
 * B.S. in Mathematics and Computer Science, Zhejiang Normal University, 2016
 * M.S. in Computer Science, University of Vermont, 2018
-* Ph.D in Computer Science, North Carolina State University, 2021 (expected)
+* Ph.D in Computer Science, North Carolina State University, 2022 (expected)
 
 Work experience
 ======
 * Spring 2019 to present: Graduate Research Assistant at North Carolina State University
+  Researching anomaly detection in containers environment to create insights on best practices for users.
+  One conference paper as the first author is under review.
+  One short conference paper and one poster were accepted as the second author.
 
-* May 2019 to July 2019: Lecturer at North Carolina State University
- Taught on campus section of 19 undergraduate students on Operating Systems (CSC 246), including multithreaded programming in Java and C, CPU scheduling and memory management , resulting in a 95% pass rate.
+* May 2020 to July 2020: Instructor at North Carolina State University
+  Delivered online synchronous section of 13 undergraduate students on Operating Systems, and updated teaching materials, resulting in a 92% pass rate.
+
+* May 2019 to July 2019: Instructor at North Carolina State University
+  Taught on campus section of 19 undergraduate students on Operating Systems (CSC 246), including multithreaded programming in Java and C, CPU scheduling and memory management, resulting in a 90% pass rate. 
+  Average score of question “Overall this course was excellent” on class evaluation achieved 4.5 out of 5, which was higher than department average score of 4.3.
 
 * Fall 2018 to present: Graduate Teaching Assistant at North Carolina State University
   * Duties included: 
