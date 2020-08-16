@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Computer Science at North Carolina State University, looking for summer internship in 2020!
+I am a thid year PhD student in Computer Science at North Carolina State University, looking for summer internship in 2021!
