@@ -2,7 +2,7 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-fall-teaching-3
+permalink: /teaching/2017-spring-teaching-2
 venue: "University of Vermont, Department of Computer Science"
 date: 2017-01-17
 location: "Burlington, Vermont, USA"
