@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student in Computer Science at North Carolina State University.
+I am a fifth year PhD student in Computer Science at North Carolina State University.
