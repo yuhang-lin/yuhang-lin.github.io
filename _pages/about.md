@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD student in Computer Science at North Carolina State University.
+I am a Research Scientist at Meta. I received PhD in Computer Science from North Carolina State University.
